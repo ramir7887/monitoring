@@ -1,0 +1,6 @@
+aiohttp==3.6.1
+asyncio==3.4.3
+lxml==4.4.2
+mysql-connector-python==8.0.18
+opcua==0.98.12
+PyMySQL==0.9.3
